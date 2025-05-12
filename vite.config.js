@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ios-portfolio'
+  base: 'https://arieldev2.github.io/ios-portfolio/'
 })
